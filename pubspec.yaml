@@ -35,6 +35,7 @@ dependencies:
   google_sign_in: ^5.0.5
   injectable: ^1.4.1
   get_it: ^7.2.0
+  another_flushbar: ^1.10.24
 
 dev_dependencies:
   flutter_test:
@@ -79,4 +80,3 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
-
