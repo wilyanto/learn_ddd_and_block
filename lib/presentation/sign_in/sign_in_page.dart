@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:learn_ddd_and_bloc/application/sign_in_form/bloc/sign_in_form_bloc.dart';
+import 'package:learn_ddd_and_bloc/application/auth/sign_in_form/sign_in_form_bloc.dart';
 import 'package:learn_ddd_and_bloc/injection.dart';
 import 'package:learn_ddd_and_bloc/presentation/sign_in/widgets/sign_in_form.dart';
 
